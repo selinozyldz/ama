@@ -29,7 +29,6 @@ Cooking. Traveling. Sports. Teaching. Pokémon. Whatever. :joy:
  - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
 
 
-[![Maintenance](https://img.shields.io/badge/Maintenu%3F-oui-green.svg)](https://GitHub.com/selinozyldz/ama/graphs/commit-activity)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/selinozyldz/ama)
 [![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/ama/README.md?pixel)](https://GitHub.com/selinozyldz/ama/)
 
