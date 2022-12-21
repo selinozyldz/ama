@@ -30,7 +30,6 @@ Cooking. Traveling. Sports. Teaching. Pokémon. Whatever. :joy:
 
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/selinozyldz/ama)
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/ama/README.md?pixel)](https://GitHub.com/selinozyldz/ama/)
 
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/selinozyldz/)
 
